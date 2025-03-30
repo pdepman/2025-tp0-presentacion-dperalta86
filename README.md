@@ -19,6 +19,9 @@ Hola a todos! Mi nombre es Daniel Peralta y esta es la primera vez que curso est
 Me gusta la música, una vez intenté ser guitarrista, ahora tengo dos guitarras juntando polvo! Hace algunos años hice un curso de grabación, mezcla e introducción al mastering, pero nunca avancé con ningún proyecto. 
 También me gusta el fútbol (hincha de Vélez) cada vez que podemos vamos a la cancha con mi hijo, pero solo ver o charlar, no juego (de chico me ponian de arquero...)
 
+### Contacto
+- [LinkedIn](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ar.linkedin.com/in/daniel-isa%25C3%25ADas-peralta-117187153)
+
 ---
 
 Creo que al igual que la mayoría espero sea una gran cursada, a priori, hay un gran ambiente y eso seguramente lo hará mas ameno. Personalmente, espero me ayude a afianzar el trabajo en equipo y la colaboración como así también poder "pensar" los problemas desde otra perspectiva y adquirir no solo conocimiento técnico, si no también, buenas prácticas a la hora de desarrollar software.
